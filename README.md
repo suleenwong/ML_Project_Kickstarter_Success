@@ -1,6 +1,6 @@
 # Predicting Kickstarter project success with Machine Learning 
 
-By [Erick Cantu](https://github.com/eaunaicr97) and [Su Leen Wong](https://github.com/suleenwong)
+By [Su Leen Wong](https://github.com/suleenwong) and [Erick Cantu](https://github.com/eaunaicr97)
 
 ![](assets/cover.png)
 
