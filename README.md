@@ -52,9 +52,9 @@ In this repository you will find:
 
 - [**column_names.md**](column_names.md) : Descriptions of the columns of the dataset
 
-- **1_Intro_and_Data_Cleaning.ipynb**: Jupyter notebook for introduction to this project, importing the data, combining the csv files and cleaning the data
+- [**1_Intro_and_Data_Cleaning.ipynb**](1_Intro_and_Data_Cleaning.ipynb): Jupyter notebook for introduction to this project, importing the data, combining the csv files and cleaning the data
 
-- **2_EDA_Data_Visualization.ipynb** : Jupyter notebook for Exploratory Data Analysis (EDA) and data visualization
+- **2_EDA_and_Data_Visualization.ipynb** : Jupyter notebook for Exploratory Data Analysis (EDA) and data visualization
 
 - **03_Modeling.ipynb** : Jupyter notebook with machine learning model implementation and error analysis
 
