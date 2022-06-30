@@ -6,6 +6,7 @@ By [Su Leen Wong](https://github.com/suleenwong) and [Erick Cantu](https://githu
 
 <sub>Image from [http://clipart-library.com/](http://clipart-library.com/)</sub>
 
+<br>
 
 ## Introduction
 
