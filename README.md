@@ -10,7 +10,7 @@ By [Su Leen Wong](https://github.com/suleenwong) and [Erick Cantu](https://githu
 
 ## Introduction
 
-Kickstarter, founded in 2009, is a crowdfunding platform where project creators can raise money from the public,  circumventing traditional avenues of investment. It has an all-or-nothing funding model, whereby a project is only funded if it meets its goal amount; otherwise no funds are collected.
+Kickstarter, founded in 2009, is a crowdfunding platform where project creators can raise money from the public, circumventing traditional avenues of investment. It has an all-or-nothing funding model, whereby a project is only funded if it meets its goal amount; otherwise no money is given by backers to a project.
 
 A huge variety of factors contribute to the success or failure of a project on Kickstarter. Some of these factors are able to be quantified or categorized, which allows machine learning models to predict whether a project will succeed or not. 
 
@@ -23,7 +23,7 @@ More generally, the aim is to help potential project creators as well as potenti
 
 ## About the data
 
-The dataset contains data on all projects hosted on Kickstarter between the company’s launch in April 2009 until the date of the webscrape on 14 March 2019. The dataset contains 209222 projects.
+The dataset contains data on all projects hosted on Kickstarter between the company’s launch in April 2009 until the date of the webscrape on March 14, 2019. The dataset contains 209222 projects.
 
 <br>
 
