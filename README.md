@@ -54,7 +54,7 @@ In this repository you will find:
 
 - [**1_Intro_and_Data_Cleaning.ipynb**](1_Intro_and_Data_Cleaning.ipynb): Jupyter notebook for introduction to this project, importing the data, combining the csv files and cleaning the data
 
-- **2_EDA_and_Data_Visualization.ipynb** : Jupyter notebook for Exploratory Data Analysis (EDA) and data visualization
+- [**2_EDA_and_Data_Visualization.ipynb**](2_EDA_and_Data_Visualization.ipynb) : Jupyter notebook for Exploratory Data Analysis (EDA) and data visualization
 
 - [**3_Modeling.ipynb**](3_Modeling.ipynb) : Jupyter notebook with machine learning model implementation and error analysis
 
