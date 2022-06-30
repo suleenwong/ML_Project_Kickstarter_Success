@@ -1,0 +1,39 @@
+# Column Names and descriptions for Kickstarter Projects dataset
+
+- **backers_count** - number of backers of the project
+- **blurb** - short description about the project
+- **category** - contains category and subcategory information for the project
+- **converted_pledged_amount** - amount of money pledged, converted to the currency in the 'current_currency' column. This column is dropped in favor of 'usd_pledged'.
+- **country** - country of project creator 
+- **created_at** - date and time in Unix time of when the project was initially created
+- **creator** - contains name of the project creator
+- **currency** - original currency of project goal
+- **currency_symbol** symbol of the original currency the project goal was denominated in
+- **currency_trailing_code** - code of the original currency the project goal was denominated in
+- **current_currency** - currency the project goal was converted to
+- **deadline** - date and time of when the project will close for donations
+- **disable_communication** - whether or not a project owner disabled communication with their backers
+- **friends** - unclear (null or empty list)
+- **fx_rate** - foreign exchange rate between the original currency and the current_currency
+- **goal** - funding goal in the currency denominated by 'currency'
+- **id** - id number of the project
+- **is_backing** - unclear (null or false)
+- **is_starrable** - whether or not a project can be starred by users
+- **is_starred** - whether or not a project has been starred by users
+- **launched_at** - date and time of when the project was launched
+- **location** - contains city or state information of the project creator
+- **name** - name of the project
+- **permissions** - unclear (null or empty)
+- **photo** - link and information to the project photo
+- **pledged** - amount pledged in 'current_currency'
+- **profile** - contains information about the project's profile and some visualization parameters
+- **slug** - name of the project in lowercase with dashes instead of spaces
+- **source_url** - url for the project's category
+- **spotlight** - after a project has been successful, it was spotlighted on the Kickstarter website. This column will be dropped because it is a 1 to 1 correlation with the target variable (state).
+- **staff_pick** - whether a project was highlighted as a staff pick when it was launched/live
+- **state** - target variable, has 5 unique values: [successful, failed, live, canceled, suspended]
+- **state_changed_at** - date and time of when a project's status was changed (same as the deadline for successful and failed projects)
+- **static_usd_rate** - conversion rate between the original currency and USD
+- **urls** - url link to the project's page
+- **usd_pledged** - amount pledged in USD
+- **usd_type** - unclear (domestic or international)
