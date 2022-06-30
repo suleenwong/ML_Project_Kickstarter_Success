@@ -2,13 +2,16 @@
 
 By [Su Leen Wong](https://github.com/suleenwong) and [Erick Cantu](https://github.com/eaunaicr97)
 
-![](assets/cover.png)
+![](assets/intro.png)
+
+<sub>Image from [http://clipart-library.com/](http://clipart-library.com/)</sub>
+
 
 ## Introduction
 
 Kickstarter, founded in 2009, is a crowdfunding platform where project creators can raise money from the public,  circumventing traditional avenues of investment. It has an all-or-nothing funding model, whereby a project is only funded if it meets its goal amount; otherwise no funds are collected.
 
-A huge variety of factors contribute to the success or failure of a project on Kickstarter. Some of these factors are able to be quantified or categorized, which allows for the construction of a model to attempt to predict whether a project will succeed or not. 
+A huge variety of factors contribute to the success or failure of a project on Kickstarter. Some of these factors are able to be quantified or categorized, which allows machine learning models to predict whether a project will succeed or not. 
 
 The goal of this project is to predict if a Kickstart project will succeed or fail through using Exploratory Data Analysis and supervised Machine Learning models.
 
