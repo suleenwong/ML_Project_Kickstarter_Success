@@ -56,7 +56,7 @@ In this repository you will find:
 
 - **2_EDA_and_Data_Visualization.ipynb** : Jupyter notebook for Exploratory Data Analysis (EDA) and data visualization
 
-- **03_Modeling.ipynb** : Jupyter notebook with machine learning model implementation and error analysis
+- [**03_Modeling.ipynb**](03_Modeling.ipynb) : Jupyter notebook with machine learning model implementation and error analysis
 
 - [**Kickstarter_Project_Slides.pdf**](Kickstarter_Project_Slides.pdf): Final presentation of the project
 
